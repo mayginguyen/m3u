@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:0,tap 1
+https://r1---sn-i3b7rn7y.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=931c06f723c164c0&itag=22&source=picasa&ip=171.255.10.35&ipbits=0&expire=1410217194&sparams=cmbypass,expire,id,ip,ipbits,itag,requiressl,shardbypass,source&signature=16CF89A05434DCEE5A348E3E6A0F1C6A0346B77D.662C91D28EBAD6D9672239C795ABA72AE3504D61&key=cms1&cm2=0&cms_redirect=yes&ir=1&mm=30&ms=nxu&mt=1407625171&mv=m&mws=yes&nh=IgpwcjA0LmhrZzAxKgkxMjcuMC4wLjE
+
+
+
+#EXTINF:0,tap 2
+http://s1.phimhd3s.com/phimbo/hanquoc/2014/04/Angel.Eyes/Angel.Eyes.E002/list.m3u8
+
+#EXTINF:0,tap 3
+http://s3.phimhd3s.com/vod/data04/phimbo/hanquoc/2014/04/AngelEyes/%5BK-Zone%5D.Angle.Eyes.Ep03.HD.KITESVN/playlist.m3u8
+
+#EXTINF:0,tap 4
+http://s3.phimhd3s.com/vod/data04/phimbo/hanquoc/2014/04/AngelEyes/%5BK-Zone%5D.Angle.Eyes.Ep04.HD.KITESVN/playlist.m3u8
+
+#EXTINF:0,tap 5
+http://s8.phimhd3s.com/phimbo/hanquoc/2014/04/Angel.Eyes/%5BK-Zone%5D.Angle.Eyes.Ep05.HD.KITESVN/playlist.m3u8
+
+#EXTINF:0,tap 6
+http://s8.phimhd3s.com/phimbo/hanquoc/2014/04/Angel.Eyes/Angle.Eyes.Ep06.HD/playlist.m3u8
+
+#EXTINF:0,tap 7
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/%5BK-Zone%5D.Angel.Eyes.Ep07.HD.KITESVN/playlist.m3u8
+#EXTINF:0,tap 8
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/%5BK-Zone%5D.Angle.Eyes.Ep08.HD.KITESVN/playlist.m3u8
+#EXTINF:0,tap 9
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/[K-Zone].Angel.Eyes.Ep09.HD..KITESVN/playlist.m3u8
+#EXTINF:0,tap 1o
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/Angel.Eyes.Ep10.HD.KITESVN/playlist.m3u8
+
+#EXTINF:0,tap 11
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/%5BK-Zone%5D.Angel.Eyes.Ep11.HD.KITESVN/playlist.m3u8
+#EXTINF:0,tap  12
+http://s9.phimhd3s.com//phimbo/Doi.Mat.Thien.Than/%5BK-Zone%5D.Angel.Eyes.Ep12.HD.KITESVN/playlist.m3u8
