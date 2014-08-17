@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channels>
+<channel>
+<name>PHIM LE HINH VIET NAM</name>
+<thumbnail></thumbnail>
+
+<items>
+<item>
+<title>hello co ba</title>
+<link>http://s3.phimhd3s.com/vod/data05//phimbo/vietnam/hello.co.ba/HelloCoBa2012Disc1.DVDRip/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/hello-co-ba-2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bay rong</title>
+<link>http://s2.phimhd3s.com/vod/data04//phimle/2013/01/Bay.rong/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/bay-rong-2009.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thien menh anh hung</title>
+<link>http://s24.phimhd3s.com/vod/data01//phimle/2014/05/Blood.Letter.2012.BluRay.720p.DTS-DD5.1.x264-EbP/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/thien-menh-anh-hung-2012.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dong mau anh hung</title>
+<link>http://s8.phimhd3s.com/phimle/2014/06/20.06/The.Rebel.2006.720p.BluRay.x264-FHD/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/dong-mau-anh-hung-2007.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cu to hien linh</title>
+<link>http://s2.phimhd3s.com/vod/data04//phimle/2013/01/Cu.To.Hien.Linh.2013/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/cu-to-hien-linh-2013.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Khi yeu dung quay dau lai</title>
+<link>http://s6.phimhd3s.com/phimle/2013/06/Khi.Yeu.Dung.Quay.Dau.Lai.2010/list.m3u8</link>
+<thumbnail>http://i.hdonline.vn/resources/images/filmx/khi-yeu-dung-quay-dau-lai-2010.jpg</thumbnail>
+
+</items>
+</channel>
+</channels>
