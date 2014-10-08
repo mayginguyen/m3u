@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+	<channel>
+	
+		<name>[COLOR FF00FF00]->>[B]PHIM LẺ HAY ĐỀ XUẤT[/B][COLOR blue] - [I]Đẳng Cấp HD [/I][/COLOR][/COLOR]</name>
+        <thumbnail>http://dangcaphd.com/public/site/layout/images/logo1.png</thumbnail>
+		<items>
+			<item>
+				<title>[COLOR green] DOWNLOAD ROBOT ĐẠI CHIẾN 4: KỶ NGUYÊN HUỶ DIỆT [/COLOR][COLOR=FFFFFF00] 2014 [/COLOR]</title>
+				<link>https://r4---sn-i3b7rnel.googlevideo.com/videoplayback?requiressl=yes&amp;shardbypass=yes&amp;cmbypass=yes&amp;id=7a25ce43095619bc&amp;itag=22&amp;source=picasa&amp;ip=27.73.58.45&amp;ipbits=0&amp;expire=1415293534&amp;sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,requiressl,shardbypass,source&amp;signature=110664D0CB7E868D0DFA65D1A9F4022DB35C96DA.0DAFB4762156695D9B0D7ADFC29B4798015D60B4&amp;key=cms1&amp;title=PhimMoi.Net--Xa.thu.Thien.xa-Shooter.2007.%5BHD-Vietsub%5D&amp;cms_redirect=yes&amp;mm=30&amp;ms=nxu&amp;mt=1412746115&amp;mv=m&amp;nh=IgpwcjAzLmhrZzAxKgkxMjcuMC4wLjE</link>
+				<thumbnail>http://static.phimmoi.net/film/1018/poster.medium.jpg</thumbnail>
+			</item>
+			
+			<item>
+				<title>[COLOR red]  MAN ON A LEDGE [/COLOR][COLOR green] NGU?I ÐÀN ÔNG TRÊN G? TU?NG  [/COLOR][COLOR=FFFFFF00] 2012 [/COLOR]</title>
+				<link>http://server1.dangcaphd.com/p6jdqdE5QKfXAYgVphim/Man.on.a.Ledge.2012.mp4?start=0</link>
+				<thumbnail>http://media.dangcaphd.com/public/6b1aaf27ebf6fe6da5f4d21b0870d662.jpg</thumbnail>
+			</item>
+			
+		</items>
+
+    
+    </channel>
+	
+	<channel>
+	
+		<name>[COLOR FF00FF00]->>[B]PHIM LẺ HAY ĐỀ XUẤT[/B][COLOR blue] - [I]Vua HD  [/I][/COLOR][/COLOR]</name>
+		<thumbnail>http://dangcaphd.com/public/site/layout/images/logo1.png</thumbnail>
+		<items>
+			<item>
+				<title>[COLOR red]  MAN ON A LEDGE [/COLOR][COLOR green] NGU?I ÐÀN ÔNG TRÊN G? TU?NG  [/COLOR][COLOR=FFFFFF00] 2012 [/COLOR]</title>
+				<link>http://server1.dangcaphd.com/p6jdqdE5QKfXAYgVphim/Man.on.a.Ledge.2012.mp4?start=0</link>
+				<thumbnail>http://media.dangcaphd.com/public/6b1aaf27ebf6fe6da5f4d21b0870d662.jpg</thumbnail>
+			</item>
+		</items>
+
+    
+    </channel>
+</channels>
